@@ -1,0 +1,16 @@
+# Interview Solution
+solution.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
+venv/
+
+# Training output
+out/
+results/
+logs/
